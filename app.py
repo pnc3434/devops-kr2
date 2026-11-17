@@ -1,3 +1,4 @@
+# KR2: Жуков
 import os
 import socket
 
